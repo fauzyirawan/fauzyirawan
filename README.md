@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fauzyirawan
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Analytics and Business Intelligence
 - 🌱 I’m currently learning Data Analyst
 
 <!---
