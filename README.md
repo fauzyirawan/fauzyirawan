@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fauzyirawan
-- 👀 I’m interested in Data Analytics and Business Intelligence
-- 🌱 I’m currently learning Data Analyst
+- 🌱 Currently learning Data Analyst
 
 <!---
 fauzyirawan/fauzyirawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
